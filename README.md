@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **java, css, html**
 
-- 📫 How to reach me **mohamedfaizam321@gmail.com**
+- 📫 How to reach me **faizamfairooz@gmail.com**
 
 - ⚡ Fun fact **Call me as Faiz**
 
