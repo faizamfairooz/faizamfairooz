@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/faizamfairooz" target="blank"><img src="https://img.shields.io/twitter/follow/faizamfairooz?logo=twitter&style=for-the-badge" alt="faizamfairooz" /></a> </p>
 
-- 🌱 I’m currently learning **sql**
+- 🌱 I’m currently learning **java script**
 
-- 💬 Ask me about **java, css, html**
+- 💬 Ask me about **java, css, html, sql**
 
 - 📫 How to reach me **faizamfairooz@gmail.com**
 
